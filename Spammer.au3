@@ -16,18 +16,18 @@
 
 $enter = 1
 
-$delayid = 5
+$delayid = 4
 $delaytime = 1000
 
-$delay1 = 50
-$delay2 = 100
-$delay3 = 250
-$delay4 = 500
-$delay5 = 1000
-$delay6 = 2500
-$delay7 = 5000
-$delay8 = 10000
-$delay9 = 60000
+$delay1 = 100
+$delay2 = 250
+$delay3 = 500
+$delay4 = 1000
+$delay5 = 2500
+$delay6 = 5000
+$delay7 = 10000
+$delay8 = 30000
+$delay9 = 45000
 $delay10 = 600000
 
 $idFormMain = GUICreate("Spammer", 305, 225)
